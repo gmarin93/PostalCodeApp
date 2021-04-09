@@ -8,8 +8,9 @@
 	
 	To give some style to the app, bootstrap is being used.
 	
-
 	To run the json server, use the command: json-server db.json -p 4000.
+
+	The get the data from db.json, the app uses Redux to manage the state.
 	
 	
 	
